@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://github.com/samarmajid/CodePathiOSClassPrework/blob/main/Screen%20Recording%202022-02-05%20at%2012.58.14%20AM.mov
+https://ezgif.com/video-to-gif/ezgif-7-3de8bade98.mov
 
 Screen recording in listed files
 
